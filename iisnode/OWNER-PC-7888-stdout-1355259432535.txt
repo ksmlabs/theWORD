@@ -1,0 +1,70 @@
+info: socket.io started
+Express server listening on port NaN in development mode
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized 154537822421816040
+debug: setting request GET /socket.io/1/xhr-polling/154537822421816040?t=1355259463069
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client 154537822421816040
+debug: xhr-polling received data packet 5:::{"name":"setname","args":["WebMatrix User"]}
+debug: broadcasting packet
+debug: setting request GET /socket.io/1/xhr-polling/154537822421816040?t=1355259463102
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"messages","args":[{"buffer":[]}]}
+debug: set close timeout for client 154537822421816040
+debug: discarding transport
+debug: cleared close timeout for client 154537822421816040
+debug: setting request GET /socket.io/1/xhr-polling/154537822421816040?t=1355259463155
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client 154537822421816040
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client 154537822421816040
+debug: xhr-polling closed due to exceeded duration
+debug: fired close timeout for client 154537822421816040
+info: transport end
+debug: broadcasting packet
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized 81543586552081980
+debug: setting request GET /socket.io/1/xhr-polling/81543586552081980?t=1355259849720
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client 81543586552081980
+debug: xhr-polling received data packet 5:::{"name":"setname","args":["WebMatrix User"]}
+debug: broadcasting packet
+debug: setting request GET /socket.io/1/xhr-polling/81543586552081980?t=1355259849760
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"messages","args":[{"buffer":[]}]}
+debug: set close timeout for client 81543586552081980
+debug: discarding transport
+debug: cleared close timeout for client 81543586552081980
+debug: setting request GET /socket.io/1/xhr-polling/81543586552081980?t=1355259849772
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client 81543586552081980
+debug: xhr-polling received data packet 3:::ff
+debug: broadcasting packet
+debug: xhr-polling received data packet 3:::fff
+debug: broadcasting packet
+starting step - displayLogin
+...finished step
+starting step - displayRegister
+...finished step
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client 81543586552081980
+debug: xhr-polling closed due to exceeded duration
+debug: fired close timeout for client 81543586552081980
+info: transport end
+debug: broadcasting packet
+debug: discarding transport
